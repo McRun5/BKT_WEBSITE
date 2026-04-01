@@ -1,0 +1,5 @@
+# app-ads.txt for BKT
+# Place your ad network entries below
+# Format: <ad network domain>, <publisher ID>, <relationship>, <certification authority ID>
+# Example:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
