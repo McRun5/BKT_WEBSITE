@@ -1,4 +1,1 @@
-# app-ads.txt for BKT
-# Place your ad network entries below
-# Format: <ad network domain>, <publisher ID>, <relationship>, <certification authority ID>
 facebook.com, 24714617804902849, DIRECT, c3e20eee3f780d68
